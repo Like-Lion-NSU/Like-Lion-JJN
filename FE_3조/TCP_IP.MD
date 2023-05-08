@@ -44,14 +44,14 @@
 >     4-3. 이것처럼 우체국은 최선의 노력을 다해 목적지 주소로 편지를 보내지만 실제 사람에게 전달되었는지에 대해 보장하지 않음.   
 
 ### 참고자료
-> [데이터의 순차전송](https://sw-test.tistory.com/17)   
-> [TCP전체적인 큰특징](https://www.youtube.com/watch?v=ikDVGYp5dhg)   
-> [흐름제어](https://aws-hyoh.tistory.com/entry/TCPIP-쉽게-이해하기)   
-> [흐름제어2](https://velog.io/@qjatn1009/TCP와-UDP)   
-> [흐름제어3](https://roka88.dev/114)   
-> [신뢰성 보장이유](https://github.com/lunchScreen/Interview_Questions/issues/97)   
-> [IP의 주요특징](https://velog.io/@kpl5672/ip-프로토콜의-이해)   
-> [Best Effort](https://whatchang.tistory.com/32)   
-> [비연결 서비스](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=jk130694&logNo=220731561157)   
+> * [데이터의 순차전송](https://sw-test.tistory.com/17)   
+> * [TCP전체적인 큰특징](https://www.youtube.com/watch?v=ikDVGYp5dhg)   
+> * [흐름제어](https://aws-hyoh.tistory.com/entry/TCPIP-쉽게-이해하기)   
+> * [흐름제어2](https://velog.io/@qjatn1009/TCP와-UDP)   
+> * [흐름제어3](https://roka88.dev/114)   
+> * [신뢰성 보장이유](https://github.com/lunchScreen/Interview_Questions/issues/97)   
+> * [IP의 주요특징](https://velog.io/@kpl5672/ip-프로토콜의-이해)   
+> * [Best Effort](https://whatchang.tistory.com/32)   
+> * [비연결 서비스](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=jk130694&logNo=220731561157)   
 ## 활용
 
