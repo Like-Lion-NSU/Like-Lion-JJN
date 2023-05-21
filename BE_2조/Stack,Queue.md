@@ -655,7 +655,7 @@ https://velog.io/@nnnyeong/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%8A%A4%ED%83%
    LinkedList<Integer> numList = new LinkedList<Integer>();
    // LinkedList<>안에는 String등 다양한 데이터 타입을 선언할 수 있다.
    ```
-  - 데이터 추가 메서드
+ - 데이터 추가 메서드
    ```java
    numList.add(1);
    // → Linked List에 "()" 안에 데이터 값 추가.
@@ -666,24 +666,24 @@ https://velog.io/@nnnyeong/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%8A%A4%ED%83%
    numList.addLast(3);
    // → Linked List 맨 뒤에 "()" 안에 데이터를 추가
    ```
-  - 데이터 삭제 메서드
+ - 데이터 삭제 메서드
    ```java
    umList.remove(2);
    // → Linked List "()" 안에 인덱스 번호에 해당되는 데이터를 삭제한다.
    numList.clear(); 
    // → Linked List엔아 모든 데이터를 삭제한다.
    ```
-  - 링크드리스트 크기 구하는 메서드
+ - 링크드리스트 크기 구하는 메서드
    ```java
    System.out.println("size : " + numList.size());
    // → 현재 Linked List의 크기를 보여준다.
    ```
-  - 데이터 출력하는 메서드
+ - 데이터 출력하는 메서드
    ```java
    System.out.println(numList.get(1));
    // → "()"안에 인덱스번호에 해당되는 데이터를 출력한다.
    ```
-  - 데이터 검색하는 메서드
+ - 데이터 검색하는 메서드
    ```java
    System.out.println(numList.contains(1)); 
    // → 데이터 검색 (없으면 False 반환한다)
